@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I started in the field when i was 12, which gave me the time to swithch from programming to web development and then to the security the netwworks ans systems to return to mobile development and during all these years i have had time to make hundereds or even thousands of errors which i learned a lot of things and which allowed me to develop a certain rigor in the work and especially to have enough experiance to solve a problem in short outline and always progressing in the best way for each new project',
-  paragraphTwo: 'I have goal in the life this is to learn more and more to always do the best and at the same time share my knowledge to help beginners not to make the same mistakes as me and to learn faster and better.',
-  paragraphThree: '',
+  paragraphOne: 'I started in this field when I was 12 years old, which gave me the time to go from programming to web development and then to network and system security to come back to mobile development and during all these years I had the time to make hundreds or even thousands of mistakes which taught me a lot of things and allowed me to develop a certain rigor in the work and especially to have enough experience to solve a problem in the shortest possible time and always progress in the best way for each new project',
+  paragraphTwo: 'My goal in life is to learn more and more to always do the best and at the same time to share my knowledge to help beginners not make the same mistakes as me and to learn faster and better.',
+  paragraphThree: ' ',
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -30,19 +30,19 @@ export const projectsData = [
     id: nanoid(),
     img: 'forlerning.png',
     title: 'To learn Flutter',
-    info: 'these projects are beginner projects that I realized during my learning of the framwork flutter these projects which are not only mobile applications but much more, this is possible because flutter is a tools that we allows to build the same code for different platform which includes, android, ios, chrome, web, desktop',
-    info2: '',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    info: 'these projects are beginners projects that I did during my framwork flutter training, and of course they are not only mobile applications but much more, this is possible because flutter is a tool that allows us to build the same code for different platforms which include, android, ios, chrome, web, desktop, etc.',
+    info2: ' ',
+    url: ' ',
+    repo: ' ', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'proApp.png',
     title: 'professional apps',
-    info: 'These two projects they are ordered by companies that I have carried out, the first is a customer management system (CRM), which allows each customer to make an appointment with the company for the repair of his car And much more.',
-    info2: 'The second application is an (ERP) which allows the company or store to manage its stock and these sales while including a contact book and instagrame bot.',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    info: 'These two projects that I realized are commissioned by companies . The first one is a customer management system (CRM), which allows each customer to make an appointment with the company for the repair of his car and much more.',
+    info2: 'The second application is an (ERP) that allows the company or store to manage its inventory and these sales while including a contact book and an instagram bot.',
+    url: ' ',
+    repo: ' ', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),
