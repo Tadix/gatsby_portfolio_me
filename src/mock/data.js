@@ -31,9 +31,9 @@ export const projectsData = [
     img: 'forlerning.png',
     title: 'To learn Flutter',
     info: 'these projects are beginners projects that I did during my framwork flutter training, and of course they are not only mobile applications but much more, this is possible because flutter is a tool that allows us to build the same code for different platforms which include, android, ios, chrome, web, desktop, etc.',
-    info2: ' ',
-    url: ' ',
-    repo: ' ', // if no repo, the button will not show up
+    info2: '',
+    url: '',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'professional apps',
     info: 'These two projects that I realized are commissioned by companies . The first one is a customer management system (CRM), which allows each customer to make an appointment with the company for the repair of his car and much more.',
     info2: 'The second application is an (ERP) that allows the company or store to manage its inventory and these sales while including a contact book and an instagram bot.',
-    url: ' ',
+    url: '',
     repo: ' ', // if no repo, the button will not show up
   },
   // {
