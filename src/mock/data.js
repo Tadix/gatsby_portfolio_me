@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'These two projects that I realized are commissioned by companies . The first one is a customer management system (CRM), which allows each customer to make an appointment with the company for the repair of his car and much more.',
     info2: 'The second application is an (ERP) that allows the company or store to manage its inventory and these sales while including a contact book and an instagram bot.',
     url: '',
-    repo: ' ', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),
